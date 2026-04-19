@@ -1,6 +1,6 @@
-import CafeInfo from "../Cafe_info/CafeInfo";
-import VoteOptions from "../Vote_options/VoteOptions";
-import VoteStats from "../Vote_stats/VoteStats";
+import CafeInfo from "../CafeInfo/CafeInfo";
+import VoteOptions from "../VoteOptions/VoteOptions";
+import VoteStats from "../VoteStats/VoteStats";
 import Notification from "../Notification/Notification";
 import css from "./App.module.css";
 import { useState } from "react";
